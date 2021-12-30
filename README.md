@@ -1,2 +1,2 @@
 # ThemeSuite
-ThemeSuite for Windows Forms Applications
+ThemeSuite Design Library  for Windows Forms Applications.
